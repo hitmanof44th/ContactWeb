@@ -7,7 +7,6 @@ C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\ContactWeb.M
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\ContactWeb.RazorAssemblyInfo.cache
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\ContactWeb.RazorAssemblyInfo.cs
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\bin\Debug\net7.0\appsettings.json
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\bin\Debug\net7.0\ContactWeb.staticwebassets.runtime.json
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\bin\Debug\net7.0\ContactWeb.exe
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\bin\Debug\net7.0\ContactWeb.deps.json
@@ -70,3 +69,4 @@ C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\refint\Conta
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\ContactWeb.pdb
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\ContactWeb.genruntimeconfig.cache
 C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\obj\Debug\net7.0\ref\ContactWeb.dll
+C:\Users\Jeremy\source\repos\ContactWeb\ContactWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
