@@ -1,0 +1,14 @@
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\bin\Debug\net7.0\ContactData.deps.json
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\bin\Debug\net7.0\ContactData.runtimeconfig.json
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\bin\Debug\net7.0\ContactData.dll
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\bin\Debug\net7.0\ContactData.pdb
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.csproj.AssemblyReference.cache
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.dll
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\refint\ContactData.dll
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.pdb
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ContactData.genruntimeconfig.cache
+C:\Users\Jeremy\source\repos\ContactWeb\ContactData\obj\Debug\net7.0\ref\ContactData.dll
