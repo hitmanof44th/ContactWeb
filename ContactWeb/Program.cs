@@ -12,6 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddScoped<IContactService, ContactService>();
+builder.Services.AddScoped<IAdressValidator, AddressService>();
 builder.Services.AddDbContext<ContactManagerDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Connectionstring").ToString()));
 
 
