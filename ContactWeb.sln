@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb", "ContactWeb\ContactWeb.csproj", "{0B5DC2B1-2889-4B2D-851C-4CA5B624C9E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactWeb", "ContactWeb\ContactWeb.csproj", "{0B5DC2B1-2889-4B2D-851C-4CA5B624C9E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactData", "ContactData\ContactData.csproj", "{922992FF-7D43-4444-B84C-EDF459BA1BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactData", "ContactData\ContactData.csproj", "{922992FF-7D43-4444-B84C-EDF459BA1BD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
