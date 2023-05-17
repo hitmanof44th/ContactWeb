@@ -1,13 +1,19 @@
-using ContactWeb.Data;
+
+using ContactData.Datacontext;
+using ContactData.Interfaces;
+using ContactData.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddScoped<IContactService, ContactService>();
+builder.Services.AddDbContext<ContactManagerDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Connectionstring").ToString()));
+
 
 var app = builder.Build();
 

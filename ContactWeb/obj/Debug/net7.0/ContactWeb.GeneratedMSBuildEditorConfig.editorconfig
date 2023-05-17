@@ -20,12 +20,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Components/AddNew.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBZGROZXcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/_Imports.razor]
@@ -35,10 +35,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-mnh39u8uj2
-
-[C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-svwton8vol
 
 [C:/Users/Jeremy/source/repos/ContactWeb/ContactWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
