@@ -19,8 +19,8 @@ a simple contact manager and list display program
 
 ### Installing
 
-* clone the project to local drive
-* make sure ContactData is the start up project and run comands in console
+* clone the project to local drive using visualstudio
+* make sure ContactData is the start up project and run comands in console visualstudio
 ```
 Add-Migration InitialCreate
 Update-Database
@@ -47,11 +47,14 @@ Update-Database
 }
 ```
 
+## Help
+
+if for some reason you are missing add-migration or update-database
+```
+Install-Package Microsoft.Entity.FrameworkCore.Tools
+```
+
 ### Executing program
 
-* ensure Contactweb is your startup program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
+* ensure Contactweb is your startup program in visualstudio
+* press f5 or the run icon on top
